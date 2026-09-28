@@ -1,16 +1,30 @@
 ## Hi there 👋
 
-<!--
-**singhkrishna36085-cloud/singhkrishna36085-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--# Hi, I'm Krishna Singh 👋
 
-Here are some ideas to get you started:
+### AI/ML Developer | Builder | Hackathon Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a B.Tech AI/ML student passionate about building practical
+AI-powered solutions and real-world technology.
+
+🚀 Currently building: Khanij Gyan AI  
+🤖 Interests: AI/ML, Document AI, RAG & Automation  
+🏆 Hackathon Builder  
+💻 Tech: Python, FastAPI, Next.js, PostgreSQL
+
+---
+
+### 🚀 Featured Projects
+
+- 🧠 *Khanij Gyan AI* — AI-powered Document Intelligence Platform
+- 🚆 *TRAXO* — Railway Track Cleaning & Sanitization System
+- 🎓 *CampusKart* — Student Marketplace Platform
+
+---
+
+### 📫 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/krishna-singh-160333390
+- GitHub: singhkrishna36085-cloud
+
+> Building. Learning. Innovating. 🚀
