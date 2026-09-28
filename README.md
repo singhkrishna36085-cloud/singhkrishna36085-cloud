@@ -94,7 +94,7 @@ learning through real-world projects and hackathons.
 
 - 💻 GitHub: [@singhkrishna36085-cloud](https://github.com/singhkrishna36085-cloud)
 - 🔗 LinkedIn: [Krishna Singh](https://www.linkedin.com/in/krishna-singh-160333390/)
-- 📧 Email : [Krishna Singh](singhkrishna36085@gmail.com)
+- 📧 Email : [singhkrishna36085@gmail.com](mailto:singhkrishna36085@gmail.com)
 
 ---
 
